@@ -4,7 +4,7 @@
   background-color: #fafafa;
   padding: 15px 0px;
   font-size: 16px;
-  margin-top: 92px;
+  margin-top: 70px;
   font-weight: 600;
 }
 
@@ -20,7 +20,7 @@
 
 .friends-screen__channel {
   margin-top: 10px;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
   padding-top: 15px;
 }
 
